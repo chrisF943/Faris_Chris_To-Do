@@ -1,1 +1,1 @@
-Repository for the To Do program.
+Demonstrates a Hibernate project for a simple to-do application linked to a MySQL database.
